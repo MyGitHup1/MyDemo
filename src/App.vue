@@ -5,6 +5,7 @@
 </template>
 
 <script>
+// asd
 export default {
   name: 'App',
   data () {
