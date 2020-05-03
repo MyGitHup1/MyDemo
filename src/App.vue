@@ -5,7 +5,8 @@
 </template>
 
 <script>
-// hhhhhhhh奥术大师多
+// 阿萨德
+// 阿萨德
 export default {
   name: 'App',
   data () {
